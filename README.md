@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <br>
 演奏会開催します
 <br>
-ホームページは [コチラ](https://retro-ongaku.github.io/home)
+ホームページは [コチラ](https://retro-musica.github.io/home)
 <br>
 Twitter: [@retro_ongaku](https://twitter.com/retro_ongaku)
 
-> 💡 サイト管理者は [サイト管理者用資料](https://github.com/retro-ongaku/docs) をチェック
+> 💡 サイト管理者は [サイト管理者用資料](https://github.com/retro-musica/docs) をチェック
